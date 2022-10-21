@@ -1,3 +1,4 @@
+# this is sample annotation
 cv <- function(data, fit, K = nrow(data), rmse.cv = FALSE) {
   
   # assign data to folds
